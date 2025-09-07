@@ -1,4 +1,12 @@
-## Hi there 👋
+# Hi 👋, I'm Irina  
+
+I'm a full stack software developer!  
+
+🌱 I'm currently learning **React, Node.js, and TypeScript**  
+
+📫 How to reach me: [kostina.irinanz@gmail.com](mailto:kostina.irinanz@gmail.com)  
+🌐 Portfolio: [https://irina-kostina.github.io](https://irina-kostina.github.io)  
+💼 LinkedIn: [https://www.linkedin.com/in/irina-kostina-dev/](https://www.linkedin.com/in/irina-kostina-dev/)  
 
 <!--
 **Irina-Kostina/Irina-Kostina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
