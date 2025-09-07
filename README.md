@@ -9,7 +9,6 @@ I'm a full stack software developer!
 💼 LinkedIn: [https://www.linkedin.com/in/irina-kostina-dev/](https://www.linkedin.com/in/irina-kostina-dev/)  
 
 ## 📊 GitHub Stats
-![Irina's GitHub stats](https://github-readme-stats.vercel.app/api?username=Irina-Kostina&show_icons=true&theme=default)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Irina-Kostina&theme=default&hide_border=false)
 
