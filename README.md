@@ -1,12 +1,12 @@
 <div align="center">
 
-# Hi 👋, I'm Irina  
+# Hi, I'm Irina  
 
 I'm a full stack software developer!  
 
 </div>
 
- ## 🔭 I’m currently working on
+ ## I’m currently working on
 
 - Building my **photography portfolio website** using React, TypeScript, Node.js, and Express.
   
