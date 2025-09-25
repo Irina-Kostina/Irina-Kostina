@@ -5,7 +5,6 @@
 I'm a full stack software developer!  
 
 </div>
----
   
 I switched from accounting to software development because I wanted to build things that are creative and meaningful.  
 I bring my background in accounting and business administration into my new career, applying problem-solving and analytical skills to **full-stack web development**.  
