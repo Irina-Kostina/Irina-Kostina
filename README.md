@@ -6,6 +6,13 @@ I'm a full stack software developer!
 
 </div>
 
+I switched from accounting to software development because I wanted to build things that are creative and meaningful. I bring my background in accounting and business administration into my new career, applying problem-solving and analytical skills to **full-stack web development**.  
+
+I enjoy building projects that combine **clean design, solid backend logic, and practical user experiences**.  
+I’m interested in: **AI-powered apps, mobile development, and backend systems**.  
+
+Outside of coding, I’m into **photography, cooking, and exploring new ideas** that mix creativity with tech.  
+---
  ## 🔭 I’m currently working on
 
 - Building my **photography portfolio website** using React, TypeScript, Node.js, and Express.
